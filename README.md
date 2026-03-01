@@ -77,7 +77,7 @@ When trained on 85% of the data (approximately 637 points), and with a variety o
 
 
 
-
+<img width="320" height="640" alt="Figure_1" src="https://github.com/user-attachments/assets/9794a8ec-4ea9-47d5-b647-d0908ef59bce" /><br>
 *Figure 2 - Test Accuracy - circular error probable: 16.29 cm, mean: 20.09 cm*
 
 
